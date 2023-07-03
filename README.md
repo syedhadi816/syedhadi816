@@ -1,8 +1,6 @@
 # Hi there! I'm Syed.
 ## I'm a data scientist and I enjoy problem solving. When I'm not in front of a screen, I'm traveling. 
-
-- 🌱 The learning never stops xD
-- 🥅 I'm completing a master's degree in data science. 
+ 
 
 ### Personal Website
 http://syedhadi.info/
