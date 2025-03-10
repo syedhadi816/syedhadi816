@@ -2,8 +2,6 @@
 ## I'm a data scientist and I enjoy problem solving. When I'm not in front of a screen, I'm traveling. 
  
 
-### Personal Website
-http://syedhadi.net/
 
 ### Connect with me:
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedhadi816/)
